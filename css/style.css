@@ -1,0 +1,48 @@
+.navbar {
+    background-color: rgb(0, 0, 0) !important;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    opacity: 0.9;
+    
+}
+
+
+
+.dropdown-menu {
+    background-color: orange;
+    box-shadow: 2px 5px 5px rgb(81, 81, 240);
+    border-color: rgb(81, 81, 240);
+    border-style: double;
+}
+
+.dropdown-item {
+    color: rgb(81, 81, 240);
+    text-decoration: black;
+}
+
+.navbar a {
+    color: rgb(81, 81, 240) !important;
+    
+}
+
+.navbar li:hover {
+
+    background-color: black;
+    
+}
+
+.navbar ul {
+   
+    background-color: black;
+    
+}
+
+.navbar a:hover {
+    background: orange;
+    position: relative;
+    text-size-adjust: 100%;
+    position: relative;
+    
+   
+}
+
